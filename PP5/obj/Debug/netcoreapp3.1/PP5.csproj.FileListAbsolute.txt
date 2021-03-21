@@ -1,0 +1,15 @@
+E:\PP\PP5\PP5\bin\Debug\netcoreapp3.1\PP5.exe
+E:\PP\PP5\PP5\bin\Debug\netcoreapp3.1\PP5.deps.json
+E:\PP\PP5\PP5\bin\Debug\netcoreapp3.1\PP5.runtimeconfig.json
+E:\PP\PP5\PP5\bin\Debug\netcoreapp3.1\PP5.runtimeconfig.dev.json
+E:\PP\PP5\PP5\bin\Debug\netcoreapp3.1\PP5.dll
+E:\PP\PP5\PP5\bin\Debug\netcoreapp3.1\PP5.pdb
+E:\PP\PP5\PP5\bin\Debug\netcoreapp3.1\MPI.dll
+E:\PP\PP5\PP5\obj\Debug\netcoreapp3.1\PP5.AssemblyInfoInputs.cache
+E:\PP\PP5\PP5\obj\Debug\netcoreapp3.1\PP5.AssemblyInfo.cs
+E:\PP\PP5\PP5\obj\Debug\netcoreapp3.1\PP5.csproj.CoreCompileInputs.cache
+E:\PP\PP5\PP5\obj\Debug\netcoreapp3.1\PP5.csproj.CopyComplete
+E:\PP\PP5\PP5\obj\Debug\netcoreapp3.1\PP5.dll
+E:\PP\PP5\PP5\obj\Debug\netcoreapp3.1\PP5.pdb
+E:\PP\PP5\PP5\obj\Debug\netcoreapp3.1\PP5.genruntimeconfig.cache
+E:\PP\PP5\PP5\obj\Debug\netcoreapp3.1\PP5.csprojAssemblyReference.cache
